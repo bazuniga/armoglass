@@ -1,0 +1,13 @@
+body{
+    background: #F7F7F8;
+}
+#principal {
+    padding-top: 10%;
+    height: 100%;
+    text-align: center;
+}
+h1{
+    color: #145F70;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
